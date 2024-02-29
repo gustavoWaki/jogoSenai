@@ -1,7 +1,7 @@
 # HOW TO PLAY
 Rules:
 
-- The smaller tic-tac-toes reflect the big one, so wherever a player marks os the small ones, the next player will play on the sector referent to it
+- The smaller tic-tac-toes reflect the big one, so wherever a player marks os the small ones, the next player will have to play on the sector referent to it on the big tic-tac-toe
 
 - On the smaller tic-tac-toes, the sector is won as normal
  
